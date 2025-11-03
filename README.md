@@ -14,9 +14,8 @@ Olá! Sou o **Manuel Gouveia Cunga**, desenvolvedor **Frontend**, apaixonado por
 - 💡 Criar soluções digitais que fazem a diferença  
 - ⚡ Resolver problemas com agilidade e criatividade  
 - 🤝 Trabalhar em equipa e compartilhar conhecimento  
-- 🚀 Estratégias digitais e inovação social   
-
----
+- 🚀 Estratégias digitais e inovação social
+  
 
 ## 🧠 Tecnologias e Ferramentas  
 
@@ -34,7 +33,6 @@ Olá! Sou o **Manuel Gouveia Cunga**, desenvolvedor **Frontend**, apaixonado por
   <img src="https://img.shields.io/badge/React%20Icons-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
----
 
 ### ⚙️ Backend  
 <p align="left">
@@ -43,7 +41,6 @@ Olá! Sou o **Manuel Gouveia Cunga**, desenvolvedor **Frontend**, apaixonado por
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
 </p>
 
----
 
 ### ☁️ Cloud / Deploy  
 <p align="left">
@@ -51,7 +48,6 @@ Olá! Sou o **Manuel Gouveia Cunga**, desenvolvedor **Frontend**, apaixonado por
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
----
 
 ### 📦 Gerenciamento de Pacotes  
 <p align="left">
@@ -60,7 +56,6 @@ Olá! Sou o **Manuel Gouveia Cunga**, desenvolvedor **Frontend**, apaixonado por
   <img src="https://img.shields.io/badge/NPX-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
----
 
 ### 🧭 Versionamento  
 <p align="left">
@@ -69,7 +64,6 @@ Olá! Sou o **Manuel Gouveia Cunga**, desenvolvedor **Frontend**, apaixonado por
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
 
 ### 🧩 Gestão / Design  
 <p align="left">
@@ -80,7 +74,6 @@ Olá! Sou o **Manuel Gouveia Cunga**, desenvolvedor **Frontend**, apaixonado por
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
----
 
 ### ⚡ Metodologias Ágeis  
 <p align="left">
@@ -88,7 +81,6 @@ Olá! Sou o **Manuel Gouveia Cunga**, desenvolvedor **Frontend**, apaixonado por
   <img src="https://img.shields.io/badge/Kanban-006272?style=for-the-badge&logo=trello&logoColor=white" />
 </p>
 
----
 
 ## 📬 Contacto  
 
@@ -104,7 +96,6 @@ Olá! Sou o **Manuel Gouveia Cunga**, desenvolvedor **Frontend**, apaixonado por
   </a>
 </p>
 
----
 
 <div align="center">
   💬 Sempre aberto a colaborações e novos desafios.<br>
