@@ -81,6 +81,22 @@ Olá! Sou o **Manuel Gouveia Cunga**, desenvolvedor **Frontend**, apaixonado por
   <img src="https://img.shields.io/badge/Kanban-006272?style=for-the-badge&logo=trello&logoColor=white" />
 </p>
 
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=manuelgouveiacunga&show_icons=true&theme=radical&title_color=956841&icon_color=956841&hide_border=true" 
+    alt="Estatísticas do GitHub de Manuel Cunga" 
+    height="165" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelgouveiacunga&layout=compact&theme=radical&title_color=956841&hide_border=true" 
+    alt="Linguagens mais usadas" 
+    height="165" 
+  />
+</p>
 
 ## 📬 Contacto  
 
