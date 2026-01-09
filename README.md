@@ -115,5 +115,4 @@ Olá! Sou o **Manuel Gouveia Cunga**, desenvolvedor **Frontend**, apaixonado por
 
 <div align="center">
   💬 Sempre aberto a colaborações e novos desafios.<br>
-  Feito com 💖, café e muito código.
 </div>
