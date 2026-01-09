@@ -107,7 +107,7 @@ Olá! Sou o **Manuel Gouveia Cunga**, desenvolvedor **Frontend**, apaixonado por
   <a href="https://github.com/manuelgouveiacunga">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://meus-projectos-p9pn.onrender.com/">
+  <a href="https://manuel-cunga-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/🌍 Portfólio-956841?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
