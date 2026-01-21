@@ -33,13 +33,14 @@ Olá! Sou o **Manuel Gouveia Cunga**, desenvolvedor **Frontend**, apaixonado por
   <img src="https://img.shields.io/badge/React%20Icons-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
-
 ### ⚙️ Backend  
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Zod-3E63DD?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
+
 
 
 ### ☁️ Cloud / Deploy  
